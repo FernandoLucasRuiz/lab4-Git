@@ -1,0 +1,9 @@
+* Este es un archivo de ejemplo.
+*
+* Estas tres primeras líneas estaban escritas inicialmente.
+*
+<<<<<<< HEAD
+* Esta es la copia de GitHub
+=======
+* Esta es la copia local
+>>>>>>> e39d69f (Añadiendo el fichero ejemplo)
