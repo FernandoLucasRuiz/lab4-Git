@@ -8,6 +8,6 @@ login_length=14
 lines_to_cut=$((num_lines / login_length))
 
 # Corta y guarda la parte superior proporcional al login
-head -n "$lines_to_cut" "$1" > "$1_cut.fastq"
+head -n "$lines_to_cut" "$1" > "$1".temp
+#mv "$1".temp "$1"
 
-echo "Archivo cortado y guardado como $1_cut.fastq"
