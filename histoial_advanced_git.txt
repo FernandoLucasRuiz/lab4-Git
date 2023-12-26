@@ -1,0 +1,65 @@
+commit 970d63c42fc19c918c387ab984a44f4580b4f308
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 11:20:25 2023 +0100
+
+    Conflicto resuelto en un fichero ejemplo
+
+commit 430c00aa99482cccc56bafbbd20a00f467c999cb
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 11:10:06 2023 +0100
+
+    Añadido diff de fichero ejemplo
+
+commit b3c5c6699ab13d974b9cfb6847d9cd7275461796
+Author: FernandoLucasRuiz <153559190+FernandoLucasRuiz@users.noreply.github.com>
+Date:   Tue Dec 26 11:11:26 2023 +0100
+
+    Resolviendo conflictos en un fichero ejemplo
+
+commit 6c2918edb93383be30bafd3360db3ebcb7b2c485
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 11:07:29 2023 +0100
+
+    Añadiendo el fichero ejemplo
+
+commit 6eee5bd4940eb200e5543473e770baf750f45943
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 11:04:22 2023 +0100
+
+    Archivos actualizados
+
+commit fcdf2201caf1ed453bf3dcc24c5093d7193f6564
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 11:01:07 2023 +0100
+
+    Ficheros fastq cortados
+
+commit 46e61046ed483b8f106c78eee577b40971589a48
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 10:12:10 2023 +0100
+
+    Version 1 del anexo
+
+commit 6f55d6d44a4e995a1719d42a628bf8c253b7d545
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Tue Dec 26 09:23:39 2023 +0100
+
+    Añadiendo .zip
+
+commit bff3b47d7c43ee12737fede2c3ea826c940415d5
+Author: FernandoLucasRuiz <fernando.lucasrz@gmail.com>
+Date:   Mon Dec 25 13:31:04 2023 +0100
+
+    Añadidos cambios en archivos modificados
+
+commit 45620b66a5c57adbde06f9ce167ef697eff58e2c
+Author: FernandoLucasRuiz <153559190+FernandoLucasRuiz@users.noreply.github.com>
+Date:   Mon Dec 25 13:13:24 2023 +0100
+
+    Update README.md
+
+commit 8365451f25ffe812079d4edff573cddd8620ceda
+Author: FernandoLucasRuiz <153559190+FernandoLucasRuiz@users.noreply.github.com>
+Date:   Mon Dec 25 13:11:51 2023 +0100
+
+    Initial commit
